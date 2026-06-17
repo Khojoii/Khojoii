@@ -17,15 +17,14 @@ Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design 
 
 ---
 
----
-
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**
-- Python · FastAPI · LangChain ·  Pydantic 
-
-**AI & NLP**
-- LLMs · Prompt Engineering · Hugging Face Transformers · Text Classification · RAG (basic) · AI Agents · Vector Stores · Fine-Tuning
+| Category              | Technologies |
+|-----------------------|-------------|
+| **Languages**         | Python |
+| **Frameworks**        | FastAPI, LangChain, streamlit, Pydantic |
+| **AI & NLP**          | LLMs, Prompt Engineering, Hugging Face Transformers, RAG, AI Agents, Text Classification, Fine-Tuning |
+  
 ---
 
 ### 📫 Get in Touch
