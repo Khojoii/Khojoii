@@ -17,28 +17,16 @@ Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design 
 
 ---
 
-### 🛠️ Skills & Technologies
-
-**Core Languages & Frameworks**
-- Python
-- FastAPI
-- Streamlit
-
-**AI & Machine Learning**
-- Natural Language Processing (NLP)
-- Machine Learning
-- Hugging Face Transformers
-- Scikit-learn
-- Pandas & NumPy
-
-**Tools & Platforms**
-- Git & GitHub
-- Docker
-- Linux
-- API Development
-
 ---
 
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+- Python · FastAPI · LangChain ·  Pydantic 
+
+**AI & NLP**
+- LLMs · Prompt Engineering · Hugging Face Transformers · Text Classification · RAG (basic) · AI Agents · Vector Stores · Fine-Tuning
+---
 
 ### 📫 Get in Touch
 
