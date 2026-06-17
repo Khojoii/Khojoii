@@ -39,12 +39,6 @@ Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design 
 
 ---
 
-### 🚀 Current Role
-
-- **AI Bootcamp Mentor & Content Creator** @ nparkCo 
-  Designing educational materials and mentoring students in the field of Artificial Intelligence.
-
----
 
 ### 📫 Get in Touch
 
