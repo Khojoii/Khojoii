@@ -17,6 +17,35 @@ I entered the field of Artificial Intelligence in **2024** and have been activel
 Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design and create high-quality educational content for aspiring AI engineers.
 
 ---
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📅 Google Calendar AI Agent</h3>
+      <p>A Streamlit-based AI assistant that manages your Google Calendar through natural language. Create, view, and delete events and calendars — powered by GPT API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat&logo=google-calendar&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Khojoii/google_calendar_ai_agent">📂 View Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🔍 Content Gap Analysis AI Agent</h3>
+      <p>A FastAPI-based AI agent that compares product descriptions across sources, extracts common/unique features, identifies customer content gaps, and generates marketing insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Khojoii/ContentGapAnalys_AI-Agent_FastAPI">📂 View Repo</a>
+    </td>
+  </tr>
+</table>
+---
 
 ## 🛠 Tech Stack
 
