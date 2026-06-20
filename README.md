@@ -17,6 +17,7 @@ I entered the field of Artificial Intelligence in **2024** and have been activel
 Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design and create high-quality educational content for aspiring AI engineers.
 
 ---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -70,6 +71,15 @@ Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B6B?style=flat&logoColor=white)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-F59E0B?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khojoii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
 ---
 
