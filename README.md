@@ -74,15 +74,6 @@ Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khojoii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khojoii)
