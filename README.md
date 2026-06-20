@@ -1,38 +1,62 @@
 <div align="center">
-  <h1>Mohammad Hossein Khojoii</h1>
-  <h3>AI Engineer | NLP & Machine Learning Specialist</h3>
 
-  <p>
-    Passionate about building practical AI solutions with a strong focus on Natural Language Processing.
-  </p>
+# Mohammad Hossein Khojoii
+
+### AI Engineer | NLP & Machine Learning Specialist
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+NLP+Specialist;LLM+%7C+RAG+%7C+AI+Agents;Continuously+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I entered the field of Artificial Intelligence in 2024 and have been actively developing NLP and Machine Learning solutions since then.
+I entered the field of Artificial Intelligence in **2024** and have been actively developing **NLP** and **Machine Learning** solutions since then.
 
 Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design and create high-quality educational content for aspiring AI engineers.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-| Category              | Technologies |
-|-----------------------|-------------|
-| **Languages**         | Python |
-| **Frameworks**        | FastAPI, LangChain, streamlit, Pydantic |
-| **AI & NLP**          | LLMs, Prompt Engineering, Hugging Face Transformers, RAG, AI Agents, Text Classification, Fine-Tuning |
-  
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+
+**AI & NLP**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-7F77DD?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1D9E75?style=flat&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B6B?style=flat&logoColor=white)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-F59E0B?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat&logoColor=white)
+
 ---
 
-### 📫 Get in Touch
+## 📊 GitHub Stats
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/khojoii) — link is available on my profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khojoii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojoii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khojoii)
 
 ---
 
 <div align="center">
-  <i>Organized • Reliable • Continuously Learning</i>
+  <i>Organized • Reliable • Continuously Learning 🚀</i>
 </div>
