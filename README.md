@@ -14,7 +14,7 @@
 
 I entered the field of Artificial Intelligence in **2024** and have been actively developing **NLP** and **Machine Learning** solutions since then.
 
-Currently, I work as an **AI Bootcamp Mentor** at **Nikpardaz**, where I design and create high-quality educational content for aspiring AI engineers.
+Currently, I work as an **AI Bootcamp Mentor** and **developer** at **Nikpardaz**, where I design and create high-quality educational content for aspiring AI engineers.
 
 ---
 
